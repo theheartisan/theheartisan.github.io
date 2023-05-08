@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://theheartisan.github.io/sitemap.xml
