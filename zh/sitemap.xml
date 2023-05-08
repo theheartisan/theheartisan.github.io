@@ -28,9 +28,6 @@
                 href="https://theheartisan.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>https://theheartisan.github.io/zh/tags/%E6%84%9F%E5%AE%98/</loc>
-    <lastmod>2023-05-07T10:18:35+01:00</lastmod>
-  </url><url>
     <loc>https://theheartisan.github.io/zh/</loc>
     <lastmod>2023-05-07T10:18:35+01:00</lastmod>
     <xhtml:link
@@ -43,6 +40,9 @@
                 hreflang="zh"
                 href="https://theheartisan.github.io/zh/"
                 />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/tags/%E7%81%B5%E6%84%9F/</loc>
+    <lastmod>2023-05-07T10:18:35+01:00</lastmod>
   </url><url>
     <loc>https://theheartisan.github.io/zh/posts/thoughts/floatworld/</loc>
     <lastmod>2023-05-07T10:18:35+01:00</lastmod>
@@ -68,18 +68,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://theheartisan.github.io/zh/posts/thoughts/whenkid/"
-                />
-  </url><url>
-    <loc>https://theheartisan.github.io/zh/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://theheartisan.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://theheartisan.github.io/zh/categories/"
                 />
   </url><url>
     <loc>https://theheartisan.github.io/zh/archives/</loc>
