@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 今日博客</title>
+    <title>分类 🤹🏻 on 今日博客</title>
     <link>https://theheartisan.github.io/zh/categories/</link>
-    <description>Recent content in Categories on 今日博客</description>
+    <description>Recent content in 分类 🤹🏻 on 今日博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://theheartisan.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 10:18:35 +0100</lastBuildDate><atom:link href="https://theheartisan.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「博客」</title>
+      <link>https://theheartisan.github.io/zh/categories/%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sun, 07 May 2023 10:18:35 +0100</pubDate>
+      
+      <guid>https://theheartisan.github.io/zh/categories/%E5%8D%9A%E5%AE%A2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

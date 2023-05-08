@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://theheartisan.github.io/zh/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-05-07T10:18:35+01:00</lastmod>
+  </url><url>
     <loc>https://theheartisan.github.io/zh/posts/</loc>
     <lastmod>2023-05-07T10:18:35+01:00</lastmod>
     <xhtml:link
@@ -15,6 +18,19 @@
                 href="https://theheartisan.github.io/zh/posts/"
                 />
   </url><url>
+    <loc>https://theheartisan.github.io/zh/thoughts/</loc>
+    <lastmod>2023-05-07T10:18:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/thoughts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/thoughts/"
+                />
+  </url><url>
     <loc>https://theheartisan.github.io/zh/tags/</loc>
     <lastmod>2023-05-07T10:18:35+01:00</lastmod>
     <xhtml:link
@@ -26,6 +42,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://theheartisan.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/categories/</loc>
+    <lastmod>2023-05-07T10:18:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/categories/"
                 />
   </url><url>
     <loc>https://theheartisan.github.io/zh/</loc>
@@ -57,6 +86,19 @@
                 href="https://theheartisan.github.io/zh/posts/thoughts/floatworld/"
                 />
   </url><url>
+    <loc>https://theheartisan.github.io/zh/thoughts/floatworld/</loc>
+    <lastmod>2023-05-07T10:18:35+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/thoughts/floatworld/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/thoughts/floatworld/"
+                />
+  </url><url>
     <loc>https://theheartisan.github.io/zh/posts/thoughts/whenkid/</loc>
     <lastmod>2023-05-06T16:15:39+01:00</lastmod>
     <xhtml:link
@@ -68,6 +110,19 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://theheartisan.github.io/zh/posts/thoughts/whenkid/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/thoughts/whenkid/</loc>
+    <lastmod>2023-05-06T16:15:39+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/thoughts/whenkid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/thoughts/whenkid/"
                 />
   </url><url>
     <loc>https://theheartisan.github.io/zh/archives/</loc>

@@ -7,16 +7,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Blog Today</title>
-
+<meta name="keywords" content="Blog, OpenSource, Coding, Golang, Programming">
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="https://theheartisan.github.io/en/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.3613efbd0b1772781e8f49935e973cae632a7f61471c05b17be155505ccf87b5.css" integrity="sha256-NhPvvQsXcngej0mTXpc8rmMqf2FHHAWxe&#43;FVUFzPh7U=" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://theheartisan.github.io/img/favion.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://theheartisan.github.io/img/favion-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://theheartisan.github.io/img/favion-32x32.png">
-<link rel="apple-touch-icon" href="https://theheartisan.github.io/img/android-chrome-192x192.png">
-<link rel="mask-icon" href="https://theheartisan.github.io/img/favion.ico">
+<link rel="icon" href="https://theheartisan.github.io/favion.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://theheartisan.github.io/favion-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://theheartisan.github.io/avion-32x32.png">
+<link rel="apple-touch-icon" href="https://theheartisan.github.io/apple-touch-icon-192x192.png">
+<link rel="mask-icon" href="https://theheartisan.github.io/favion.ico">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" type="application/rss+xml" href="https://theheartisan.github.io/en/index.xml">
@@ -28,34 +28,6 @@
         #theme-toggle,
         .top-link {
             display: none;
-        }
-
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --hljs-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
-
-            .list {
-                background: var(--theme);
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
-
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
         }
 
     </style>
@@ -75,7 +47,7 @@
   "name": "Blog Today",
   "url": "https://theheartisan.github.io",
   "description": "",
-  "thumbnailUrl": "https://theheartisan.github.io/img/favion.ico",
+  "thumbnailUrl": "https://theheartisan.github.io/favion.ico",
   "sameAs": [
       "https://facebook.com", "https://twitter.com", "https://github.com"
   ]
@@ -83,14 +55,10 @@
 </script>
 </head>
 
-<body class="list" id="top">
+<body class="list dark" id="top">
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
+    if (localStorage.getItem("pref-theme") === "light") {
         document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
     }
 
 </script>
@@ -98,9 +66,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="https://theheartisan.github.io/en/" accesskey="h" title="Blog Today (Alt + H)">
-                <img src="https://theheartisan.github.io/img/profile" alt="" aria-label="logo"
-                    height="35">Blog Today</a>
+            <a href="https://theheartisan.github.io/en/" accesskey="h" title="Blog Today (Alt + H)">Blog Today</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -134,6 +100,11 @@
             <li>
                 <a href="https://theheartisan.github.io/en/search/" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://theheartisan.github.io/en/categories/" title="Categories">
+                    <span>Categories</span>
                 </a>
             </li>
             <li>
@@ -194,9 +165,10 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>“Living only for the moment, turning our attention to the pleasures of the moon, the snow, the cherry blossoms and the maples, singing songs, drinking wine and diverting ourselves in just floating, floating, caring not a whit for the poverty staring us in the face, refusing to be disheartened, like a gourd floating along with the river current: this is what we call the...</p>
+    <p>“Living only for the moment, turning our attention to the pleasures of the moon, the snow, the cherry blossoms and the maples, singing songs, drinking wine and diverting ourselves in just floating, floating, caring not a whit for the poverty staring us in the face, refusing to be disheartened, like a gourd floating along with the river current: this is what we call the floating world.”
+From A Tale of the Floating World, by Asai Rydi, about 1665 (translated by Richard Lane)</p>
   </div>
-  <footer class="entry-footer"><span title='2023-05-07 10:18:35 +0100 BST'>2023-05-07</span>&nbsp;·&nbsp;1 min</footer>
+  <footer class="entry-footer"><span title='2023-05-07 10:18:35 +0100 BST'>May 7, 2023</span>&nbsp;·&nbsp;1 min</footer>
   <a class="entry-link" aria-label="post link to What is the floating world?" href="https://theheartisan.github.io/en/posts/thoughts/floatworld/"></a>
 </article>
 
@@ -208,9 +180,10 @@
     </h2>
   </header>
   <div class="entry-content">
-    <p>When you’re a kid, everything is astonishing. Everything is new. And so your brain is awake and turned on. So every second, your brain is learning something new: how the world works. And so the muscle of your brain is activated. And as you get older and your brain has figured out the patterns of how the world works: this is how you make money; this is how you graduate...</p>
+    <p>When you’re a kid, everything is astonishing. Everything is new. And so your brain is awake and turned on. So every second, your brain is learning something new: how the world works. And so the muscle of your brain is activated.
+And as you get older and your brain has figured out the patterns of how the world works: this is how you make money; this is how you graduate school; this is how you get a mortgage; this is how you have kids… And once your brain establishes a routine, it stops....</p>
   </div>
-  <footer class="entry-footer"><span title='2023-05-06 16:15:39 +0100 BST'>2023-05-06</span>&nbsp;·&nbsp;1 min</footer>
+  <footer class="entry-footer"><span title='2023-05-06 16:15:39 +0100 BST'>May 6, 2023</span>&nbsp;·&nbsp;1 min</footer>
   <a class="entry-link" aria-label="post link to When you&#39;re a kid" href="https://theheartisan.github.io/en/posts/thoughts/whenkid/"></a>
 </article>
     </main>

@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Blog Today</title>
+    <title>Categories 🤹🏻 on Blog Today</title>
     <link>https://theheartisan.github.io/en/categories/</link>
-    <description>Recent content in Categories on Blog Today</description>
+    <description>Recent content in Categories 🤹🏻 on Blog Today</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://theheartisan.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 10:18:35 +0100</lastBuildDate><atom:link href="https://theheartisan.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BLOG</title>
+      <link>https://theheartisan.github.io/en/categories/blog/</link>
+      <pubDate>Sun, 07 May 2023 10:18:35 +0100</pubDate>
+      
+      <guid>https://theheartisan.github.io/en/categories/blog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

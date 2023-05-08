@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Thoughts on 今日博客</title>
+    <link>https://theheartisan.github.io/zh/thoughts/</link>
+    <description>Recent content in Thoughts on 今日博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 May 2023 10:18:35 +0100</lastBuildDate><atom:link href="https://theheartisan.github.io/zh/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是浮世</title>
+      <link>https://theheartisan.github.io/zh/thoughts/floatworld/</link>
+      <pubDate>Sun, 07 May 2023 10:18:35 +0100</pubDate>
+      
+      <guid>https://theheartisan.github.io/zh/thoughts/floatworld/</guid>
+      <description>“我只活一刻，把注意力转向月亮的乐趣， 雪，樱花和枫树，唱着歌， 喝着酒，在漂浮、漂浮的环境中旋转着自己，毫不在意贫穷用他的双眼凝视着我， 拒绝灰</description>
+    </item>
+    
+    <item>
+      <title>当你是小孩的时候</title>
+      <link>https://theheartisan.github.io/zh/thoughts/whenkid/</link>
+      <pubDate>Sat, 06 May 2023 16:15:39 +0100</pubDate>
+      
+      <guid>https://theheartisan.github.io/zh/thoughts/whenkid/</guid>
+      <description>当你还是个孩子的时候，一切都是惊人的。一切都是新的。所以你的大脑是清醒的并且打开了。所以每一秒，你的大脑都在学习新的东西：世界是如何运作的。</description>
+    </item>
+    
+  </channel>
+</rss>
