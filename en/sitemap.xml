@@ -130,18 +130,6 @@
                 href="https://theheartisan.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://theheartisan.github.io/en/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://theheartisan.github.io/zh/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://theheartisan.github.io/en/search/"
-                />
-  </url><url>
     <loc>https://theheartisan.github.io/en/archives/</loc>
     <xhtml:link
                 rel="alternate"
