@@ -117,5 +117,41 @@
   </url><url>
     <loc>https://theheartisan.github.io/zh/tags/%E7%94%B5%E5%BD%B1/</loc>
     <lastmod>2023-03-15T18:45:18+01:00</lastmod>
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/about/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/archives/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/search/"
+                />
   </url>
 </urlset>
