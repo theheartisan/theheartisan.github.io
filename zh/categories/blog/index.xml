@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>BLOG on 今日博客</title>
+    <link>https://theheartisan.github.io/zh/categories/blog/</link>
+    <description>Recent content in BLOG on 今日博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 07 Mar 2024 17:45:09 +0100</lastBuildDate><atom:link href="https://theheartisan.github.io/zh/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>酒神精神</title>
+      <link>https://theheartisan.github.io/zh/blogs/dionysus/</link>
+      <pubDate>Thu, 07 Mar 2024 17:45:09 +0100</pubDate>
+      
+      <guid>https://theheartisan.github.io/zh/blogs/dionysus/</guid>
+      <description>理性与酒神精神之间的对比一直是西方思想的中心主题，尤其是在哲学和文学领域。德国哲学家弗里德里希·尼采在他的著作《悲剧的诞生》中探讨了这一二元</description>
+    </item>
+    
+  </channel>
+</rss>

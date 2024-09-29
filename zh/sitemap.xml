@@ -2,11 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theheartisan.github.io/zh/categories/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2023-06-07T17:45:01+01:00</lastmod>
+    <loc>https://theheartisan.github.io/zh/categories/blog/</loc>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/categories/blog/"
+                />
   </url><url>
     <loc>https://theheartisan.github.io/zh/blogs/</loc>
-    <lastmod>2023-06-07T17:45:01+01:00</lastmod>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +29,7 @@
                 />
   </url><url>
     <loc>https://theheartisan.github.io/zh/categories/</loc>
-    <lastmod>2023-06-07T17:45:01+01:00</lastmod>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,8 +41,21 @@
                 href="https://theheartisan.github.io/zh/categories/"
                 />
   </url><url>
+    <loc>https://theheartisan.github.io/zh/tags/inspiration/</loc>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/tags/inspiration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/tags/inspiration/"
+                />
+  </url><url>
     <loc>https://theheartisan.github.io/zh/tags/</loc>
-    <lastmod>2023-06-07T17:45:01+01:00</lastmod>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,6 +65,64 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://theheartisan.github.io/zh/tags/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/</loc>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/blogs/dionysus/</loc>
+    <lastmod>2024-03-07T17:45:09+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/blogs/dionysus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/blogs/dionysus/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/categories/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2023-12-07T17:45:01+01:00</lastmod>
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/blogs/earthrise/</loc>
+    <lastmod>2023-12-07T17:45:01+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/blogs/earthrise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/blogs/earthrise/"
+                />
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/tags/%E7%81%B5%E6%84%9F/</loc>
+    <lastmod>2023-12-07T17:45:01+01:00</lastmod>
+  </url><url>
+    <loc>https://theheartisan.github.io/zh/blogs/me/</loc>
+    <lastmod>2023-09-07T17:45:01+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://theheartisan.github.io/en/blogs/me/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://theheartisan.github.io/zh/blogs/me/"
                 />
   </url><url>
     <loc>https://theheartisan.github.io/zh/blogs/connected/</loc>
@@ -56,22 +137,6 @@
                 hreflang="zh"
                 href="https://theheartisan.github.io/zh/blogs/connected/"
                 />
-  </url><url>
-    <loc>https://theheartisan.github.io/zh/</loc>
-    <lastmod>2023-06-07T17:45:01+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://theheartisan.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://theheartisan.github.io/zh/"
-                />
-  </url><url>
-    <loc>https://theheartisan.github.io/zh/tags/%E7%81%B5%E6%84%9F/</loc>
-    <lastmod>2023-06-07T17:45:01+01:00</lastmod>
   </url><url>
     <loc>https://theheartisan.github.io/zh/blogs/kid/</loc>
     <lastmod>2023-05-05T19:14:41+01:00</lastmod>
