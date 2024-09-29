@@ -1,0 +1,45 @@
+---
+title: "地球升起"
+date: 2023-12-07T17:45:01+01:00
+# lastmod: 2023-12-07T17:45:01+01:00
+author: [""]
+keywords: 
+categories: 「博客」
+tags: ["灵感"]
+description: ""
+weight:
+slug: ""
+draft: false 
+comments: false 
+reward: false 
+mermaid: true 
+showToc: true 
+TocOpen: true 
+hidemeta: false 
+disableShare: true 
+showbreadcrumbs: true 
+cover:
+    image: "img/earthrise.jpg" 
+    zoom: 
+    caption: ""
+    alt: ""
+    relative: false
+---
+
+
+我们老说太阳升起来了\
+但月球上就会看到“地球升起”\
+看世界的坐标系不一样\
+理所应当就变成不可思议\
+在广阔的空间和时间中\
+我们的信仰和假设只是计划的一部分\
+斗转星移\
+确定性是一件脆弱的东西\
+被我们视线和时间的极限所束缚\
+我们选择相信的真相\
+常如雾霭般消散\
+在安静的夜晚时常惊觉\
+或许我们所谓的真理\
+只是造物主的一纸草稿
+
+

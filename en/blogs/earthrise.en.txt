@@ -1,0 +1,42 @@
+---
+title: "Earth Rise"
+date: 2023-12-07T17:45:09+01:00
+# lastmod: 2023-12-07T17:45:09+01:00
+author: [""]
+keywords: 
+categories: BLOG
+tags: ["Inspiration"]
+description: ""
+weight:
+slug: ""
+draft: false 
+comments: false 
+reward: false 
+mermaid: true 
+showToc: true 
+TocOpen: true 
+hidemeta: false 
+disableShare: true 
+showbreadcrumbs: true 
+cover:
+    image: "img/earthrise.jpg" 
+    zoom: 
+    caption: ""
+    alt: ""
+    relative: false
+---
+
+We often say that the sun rises,  
+but on the moon, one would see the 'Earth rise.'  
+When the frame of reference changes,  
+what seems natural becomes astonishing.  
+In the vast expanse of space and time,  
+our beliefs and assumptions are merely part of a larger plan.  
+As the stars shift and the heavens turn,  
+certainty is a fragile thing,  
+bound by the limits of our perception and time.  
+The truths we choose to believe in  
+often dissipate like mist.  
+In the quiet of the night, we are often struck by the thought  
+that perhaps what we call truth  
+is merely a rough draft in the Creator's hands.
