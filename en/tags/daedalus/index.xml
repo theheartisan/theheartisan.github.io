@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daedalus on Blog Today</title>
+    <link>https://theheartisan.github.io/en/tags/daedalus/</link>
+    <description>Recent content in Daedalus on Blog Today</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 07 Jun 2024 17:45:09 +0100</lastBuildDate><atom:link href="https://theheartisan.github.io/en/tags/daedalus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memory</title>
+      <link>https://theheartisan.github.io/en/blogs/sense/</link>
+      <pubDate>Fri, 07 Jun 2024 17:45:09 +0100</pubDate>
+      
+      <guid>https://theheartisan.github.io/en/blogs/sense/</guid>
+      <description>History is that certainty produced at the point where the imperfections of memory meet the inadequacies of documentation.
+&amp;ndash;The Sense of an Ending by Julian Barnes</description>
+    </item>
+    
+  </channel>
+</rss>
