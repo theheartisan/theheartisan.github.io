@@ -86,9 +86,6 @@
                 href="https://theheartisan.github.io/en/blogs/innocence/"
                 />
   </url><url>
-    <loc>https://theheartisan.github.io/en/tags/daedalus/</loc>
-    <lastmod>2024-06-07T17:45:09+01:00</lastmod>
-  </url><url>
     <loc>https://theheartisan.github.io/en/blogs/sense/</loc>
     <lastmod>2024-06-07T17:45:09+01:00</lastmod>
     <xhtml:link
@@ -101,6 +98,9 @@
                 hreflang="en"
                 href="https://theheartisan.github.io/en/blogs/sense/"
                 />
+  </url><url>
+    <loc>https://theheartisan.github.io/en/tags/movie/</loc>
+    <lastmod>2024-06-07T17:45:09+01:00</lastmod>
   </url><url>
     <loc>https://theheartisan.github.io/en/blogs/dionysus/</loc>
     <lastmod>2024-03-07T17:45:09+01:00</lastmod>
@@ -208,9 +208,6 @@
                 hreflang="en"
                 href="https://theheartisan.github.io/en/blogs/shi/"
                 />
-  </url><url>
-    <loc>https://theheartisan.github.io/en/tags/movie/</loc>
-    <lastmod>2023-03-15T18:44:55+01:00</lastmod>
   </url><url>
     <loc>https://theheartisan.github.io/en/blogs/oscar/</loc>
     <lastmod>2023-03-15T18:44:55+01:00</lastmod>
